@@ -1,0 +1,4 @@
+This is a normal text to keep sample text in it.
+
+
+I want to change this commit into commit 2.
